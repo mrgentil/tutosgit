@@ -1,0 +1,49 @@
+[33mcommit c87baf2f2461e029c8d07907e371ccdf30e85d50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4fbd405 2cd2322
+Author: bedi <tshitshob@gmail.com>
+Date:   Sun Nov 3 19:19:11 2019 +0100
+
+    resolution conflit
+
+[33mcommit 4fbd4058dcb61d8374bd3f4e2db8b51283938301[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sun Nov 3 19:12:43 2019 +0100
+
+    changement hello en hi
+
+[33mcommit 2cd2322163c0181599859023b22c4d99c81e9a12[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sun Nov 3 18:05:58 2019 +0100
+
+    ajout commit bonjour
+
+[33mcommit d7d39150fb70357b1257ed3f3cbb25949ca523bb[m
+Merge: d04c1fd 1371af6
+Author: bedi <tshitshob@gmail.com>
+Date:   Sun Nov 3 17:58:48 2019 +0100
+
+    Merge branch 'green-background'
+
+[33mcommit d04c1fdbd248a81fcd64beac515046ea3327997b[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sun Nov 3 17:52:12 2019 +0100
+
+    Changement de bonjour en hello
+
+[33mcommit 1371af6d49625fc8ef1790d0ca3e56583f6a8763[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sat Nov 2 13:36:31 2019 +0100
+
+    Ajout du background
+
+[33mcommit 892f6dafef76a5681eef1da0bde256a7a50c95e7[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sat Nov 2 13:21:34 2019 +0100
+
+    Centrer le h1
+
+[33mcommit 3dce4bc2acbc8f418a5b45670b357884a49ea800[m
+Author: bedi <tshitshob@gmail.com>
+Date:   Sat Nov 2 13:08:50 2019 +0100
+
+    Creation de la premiere version du fichier
